@@ -1,4 +1,5 @@
-### Gordon Otieno 
+# Gordon Otieno 
+
  ## Hello World 👋
  
   I am **Gordon Otieno** a Kenyan citizen, Computer Science graduate and a software developer. I am passionate about solving problems with technology and creating different solutions.
