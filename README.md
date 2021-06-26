@@ -3,9 +3,9 @@
  
   I am **Gordon Otieno** a Kenyan citizen, Computer Science graduate and a software developer. I am passionate about solving problems with technology and creating different solutions.
    
-   Stay free to know a little more about myself and follow me on my networks. I love to to make new friends and learn new things.
+   Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
    
-🔭 I’m passionate in programming:keyboard:
+I’m passionate in programming:keyboard:
 
 # Interests
 
