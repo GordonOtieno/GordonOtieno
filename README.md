@@ -14,7 +14,7 @@ I’m currently looking for my next programming job:keyboard:
 * Matering ruby :trackball:
 
 #
-// README.md
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GordonOtieno&theme=highcontrast&show_icons=true&count_private=true)
 
 #
