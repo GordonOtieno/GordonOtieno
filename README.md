@@ -6,13 +6,13 @@
    
    Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
    
-I’m passionate in programming:keyboard:
+I’m currently looking for my next programming job:keyboard:
 
 # Interests
 
-* JavaScript, php :desktop_computer:
-* React, Laravel:trackball:
-* java, Vue.js :computer:
+* Mastering react :desktop_computer:
+* Matering ruby :trackball:
+
 #
 // README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GordonOtieno&theme=highcontrast&show_icons=true&count_private=true)
