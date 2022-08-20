@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center" dir="auto"> 
+  You are visitor number: <br>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1235d4717e6be8c25f2d4642a9527069f9cb42db59befc500eda77e4721d9140/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f5368616479536861776b61742f636f756e742e737667"><img src="https://camo.githubusercontent.com/1235d4717e6be8c25f2d4642a9527069f9cb42db59befc500eda77e4721d9140/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f5368616479536861776b61742f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/ShadyShawkat/count.svg" style="max-width: 100%;"></a>
+</p>
