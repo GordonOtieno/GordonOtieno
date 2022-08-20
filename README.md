@@ -47,6 +47,11 @@ I’m currently looking for my next programming job :keyboard:
 </div>
 <br/>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Gordon%20Otieno-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gordon-otieno-612b98184/)](https://www.linkedin.com/in/gordon-otieno-612b98184/)
+[![AngelList Badge](https://img.shields.io/badge/-gordon--otieno-white?style=plastic&logo=AngelList&logoColor=black&link=https://angel.co/u/gordon-otieno)](https://angel.co/u/gordon-otieno)
+[![Twitter Badge](https://img.shields.io/badge/-@GordonOtieno-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GordonO34459259)](https://twitter.com/GordonO34459259)
+[![HackerRank Badge](https://img.shields.io/badge/-@otienogordon95?style=plastic&labelColor=1ba94c&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/otienogordon95)](https://www.hackerrank.com/otienogordon95)
+
 <p align="center"> 
   You are visitor number: <br>
   <img src="https://profile-counter.glitch.me/GordonOtieno/count.svg" />
