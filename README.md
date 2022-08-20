@@ -7,7 +7,8 @@
    Stay free to know a little more about myself and follow me on my networks. I love to make new friends and learn new things :pray:.
    
 I’m currently looking for my next programming job :keyboard:
-
+<br/>
+<br/>
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +25,8 @@ I’m currently looking for my next programming job :keyboard:
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 <br/>
+
+
 
 ## &#x1f4c8; GitHub Stats
 <div align='center'>
