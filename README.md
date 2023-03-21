@@ -7,6 +7,8 @@
    Stay free to know a little more about my abilities and follow me on my networks. I love to make new friends and learn new things :pray:.
    
 I’m currently looking for my next programming job :keyboard:
+
+⚡ Fan Fact: 'Programs must be written for people to read, and only incidentally for machines to execute.'
 <br/>
 <br/>
 
