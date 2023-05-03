@@ -8,10 +8,13 @@ Hi,  I'm **Gordon Otieno** a Kenyan citizen, Computer Science graduate and a Ful
    
 I’m currently looking for my next programming job :keyboard:
 
-⚡ Fan Fact: 'Programs must be written for people to read, and only incidentally for machines to execute.'
+⚡ **Fan Fact:** 'Programs must be written for people to read, and only incidentally for machines to execute.'
 <br/>
 <br/>
 
+**My Motivation:** Superheroes don't exist, people with passion and talent do.
+<br/>
+<br/>
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
