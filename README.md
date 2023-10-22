@@ -12,7 +12,7 @@ I’m currently looking for my next programming job :keyboard:
 <br/>
 <br/>
 
-**Motivation:** Super heroes don't exist, people with passion and talent do.
+**What motivates me?** :Super heroes don't exist, people with passion and talent do.
 <br/>
 <br/>
 ## 🔧 Technologies & Tools
