@@ -4,7 +4,7 @@
  
 Hi,  I'm **Gordon Otieno** a Kenyan citizen, Computer Science graduate and a Full-stack Web developer. <img align='right' src="./programmer.gif" width="230"> I am passionate about solving problems using technology and creating different solutions.
    
-   Stay free to know a little more about my abilities and follow me on my networks. I love to make new friends and learn new things :pray:.
+   Stay free to know a little more about my abilities and follow me on my social networks. I love to make new friends and learn new things :pray:.
    
 I’m currently looking for my next programming job :keyboard:
 
@@ -12,7 +12,7 @@ I’m currently looking for my next programming job :keyboard:
 <br/>
 <br/>
 
-**My Motivation:** Superheroes don't exist, people with passion and talent do.
+**Motivation:** Super heroes don't exist, people with passion and talent do.
 <br/>
 <br/>
 ## 🔧 Technologies & Tools
